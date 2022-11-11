@@ -1,5 +1,8 @@
 <h1 align="left">Hello there!</h1>
 
+## :comet: Contact
+- :airplane: &nbsp;**[Telegram](https://t.me/rainteaar)**
+
 <br />
 
 <h2 align="left" id="unnclear">Tech stack</h2>
